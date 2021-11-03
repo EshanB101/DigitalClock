@@ -6,10 +6,9 @@
   font-family: "Orbitron", sans-serif;
   font-size: 2rem;
 }
-/* body {
-  background: linear-gradient(to right, #232526, #414345);
-  color: rgb(16, 212, 16);
-} */
+body {
+  height: 100vh;
+}
 
 .info p {
   font-size: 16px;
@@ -19,7 +18,7 @@
   max-width: 500px;
   align-items: center;
   justify-content: center;
-  height: 50vh;
+  height: 40vh;
   margin: 170px auto;
 }
 .clock-body {

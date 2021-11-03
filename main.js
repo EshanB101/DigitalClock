@@ -31,6 +31,6 @@ setInterval(()=>{
 },1000)
 
 document.body.addEventListener('mousemove',(e)=>{
-    document.body.style.backgroundColor = "rgba(" + e.offsetX + "," + e.offsetY + ",40,0.5)";
-    //document.body.style.backgroundColor = linear-gradient(right, rgba(255,0,0,0), rgba(255,0,0,1));
+    document.body.style.backgroundColor = "rgba(" + e.offsetX + "," + e.offsetY + ",50,0.5)";
+     
 })
